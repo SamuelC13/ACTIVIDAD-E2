@@ -1,3 +1,4 @@
+
 //==================================================
 //==>Nombre del programa: puntodeventa
 //==>Autor: CORTEZ TORRES JEAN PIERRE
@@ -50,3 +51,4 @@ cout<<"El valor total es de: $"<<ct_vt<<endl;
 }
 return(0);
 }
+
