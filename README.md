@@ -22,7 +22,7 @@ Diagrama de flujo y programa en C++ que permita ingresar dos valores y los compa
 if(ct_x<ct_y)   a es el mayor`
 
 **Suma de varios numeros**
-###### Descripcion del programa
+###### Descripción del programa
 Diagrama de flujo y programa en C++ en C++ que permite sumar varios números el usuario debe ingresar la cantidad de número que quiere sumar y el programa debe mostrar la suma total de los números.
 1. Ingresa los 2 numeros para hacer la sumarespectiva.
 2. El programa realizara la suma de los numeros ingresados.
@@ -34,7 +34,7 @@ Diagrama de flujo y programa en C++ en C++ que permite sumar varios números el 
 `cout<<"Ingrese un número para sumarlo: "<<ct_s<<endl;`
 
 **Calcula la edad**
-###### Descripcion del programa
+###### Descripción del programa
 Diagrama de flujo y programa en C++ que permite calcular de edad de una persona, el programa debe permitir ingresar la fecha actual, la fecha de nacimiento y mostrar cuantos años, meses y días tiene la persona.
 
  1.Ingresa los datos pedido por el programa.
@@ -47,7 +47,7 @@ Diagrama de flujo y programa en C++ que permite calcular de edad de una persona,
 `cout<<"Usted tiene "<<ct_A<<" años "<<ct_M<<" meses  y"<<ct_D<<" dias ";`
 
 **Punto de Venta**
-###### Descripcion del programa
+###### Descripción del programa
 Diagrama de flujo y programa en C++ que permita ingresar el precio de varios productos y calculo el IVA a cobrar el descuento y el valor final a pagar, el programa mostrara total valor bruto, valor del IVA, valor del descuento y valor final a pagar.
 1. Ingrese cuantos productos comprará.
 2. Ingrese el valor de cada producto.
@@ -74,7 +74,7 @@ if (ct_c1=ct_c1+1)
 if (ct_a1=ct_a1+ct_x)
 while(ct_c<ct_n)`
 # INSTALACION
-###### Descripcion del program
+###### Descripción del program
 - clonar el repositorio en la maquina local.
 
 `g++  CortezJean-Compara.cpp -o CortezJean-Compara`
