@@ -24,7 +24,7 @@ Diagrama de flujo y programa en C++ que permita ingresar dos valores y los compa
 `if(ct_x==ct_y)  son iguales
 if(ct_x<ct_y)   a es el mayor`
 
-**Suma de varios numeros**
+**Suma de varios números**
 ###### Descripción del programa
 Diagrama de flujo y programa en C++ en C++ que permite sumar varios números el usuario debe ingresar la cantidad de número que quiere sumar y el programa debe mostrar la suma total de los números.
 1. Ingresa los 2 numeros para hacer la sumarespectiva.
