@@ -61,6 +61,7 @@ Diagrama de flujo y programa en C++ que permita ingresar el precio de varios pro
 `cout<<"El valor total es de: $"<<ct_vt<<endl;`
 
 **Cuenta moneda**
+
 Diagrama de flujo y programa en C++ que permita ingresar varias monedas de 2 tipos diferentes (10ctv y 25ctv) y presentara cuantas monedas de cada denominación se ingresaron, cuanto es la cantidad en dinero de cada denominación; así como la cantidad de dinero total que se ingresaron.
 1. Ingresa la cantidad de monedas por contar.
 2. Selecciona cuantas monedas son de 0.25 y cuantas son de 0.10.
