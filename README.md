@@ -4,6 +4,7 @@
 
 **INFORMACION DEL AUTOR**
 ###### `Autor: Cortez Jean`
+ `Enlace video: ` https://www.youtube.com/watch?v=HTro6WV5IU8&t=7
 ###### `Correo: sc834374@gmail.com`
 # PROGRAMAS
 **Compara de dos números**
@@ -38,7 +39,7 @@ Diagrama de flujo y programa en C++ en C++ que permite sumar varios números el 
 Diagrama de flujo y programa en C++ que permite calcular de edad de una persona, el programa debe permitir ingresar la fecha actual, la fecha de nacimiento y mostrar cuantos años, meses y días tiene la persona.
 
  1.Ingresa los datos pedido por el programa.
-  2.El programa se encargá de hacer los calculos respectivos.
+ 2.El programa se encargá de hacer los calculos respectivos.
   3.El programa mostrará el resultado del calculo realizado.
 
 ###### Funcionalidad
@@ -60,7 +61,7 @@ Diagrama de flujo y programa en C++ que permita ingresar el precio de varios pro
 `cout<<"El valor total es de: $"<<ct_vt<<endl;`
 
 **Cuenta moneda**
-Diagrama de flujo y programa en C++ que permita ingresar varias monedas de 3 tipos diferentes (10ctv y 25ctv) y presentara cuantas monedas de cada denominación se ingresaron, cuanto es la cantidad en dinero de cada denominación; así como la cantidad de dinero total que se ingresaron.
+Diagrama de flujo y programa en C++ que permita ingresar varias monedas de 2 tipos diferentes (10ctv y 25ctv) y presentara cuantas monedas de cada denominación se ingresaron, cuanto es la cantidad en dinero de cada denominación; así como la cantidad de dinero total que se ingresaron.
 1. Ingresa la cantidad de monedas por contar.
 2. Selecciona cuantas monedas son de 0.25 y cuantas son de 0.10.
 3. El programa hará la contabilidad de las monedas ingresadas.
@@ -74,10 +75,29 @@ if (ct_c1=ct_c1+1)
 if (ct_a1=ct_a1+ct_x)
 while(ct_c<ct_n)`
 # INSTALACION
-###### Descripción del program
+###### Descripción del programa
+- Descargar F-Droid
+
+`https://f-droid.org`
+
+- Descargar la terminal(Termux)
+
+`Dentro de la aplicación F-Droid`
+
+- Instalar paquetes en la terminal(Termux)
+
+`pkg install git`
+`pkg install vim`
+`pkg install g++`
+`pkg install clang`
+`apt update`
+`apt upgrade`
+
 - clonar el repositorio en la maquina local.
 
-`g++  CortezJean-Compara.cpp -o CortezJean-Compara`
+` git clone https://github.com/SamuelC13/ACTIVIDAD-E2`
+
+- Acceder al repositorio
 
 `cd ACTIVIDAD-E2`
 
