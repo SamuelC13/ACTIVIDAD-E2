@@ -1,3 +1,5 @@
+ ![](https://sites.google.com/site/manualdeusuarioc/home/BorlandC++.png)
+  
 # **BIENVENIDOS A PROGRAMAS EN C++ DE CORTEZ JEAN**
 **Github**
 > GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador.
@@ -88,13 +90,18 @@ while(ct_c<ct_n)`
 - Instalar paquetes en la terminal(Termux)
 
 `pkg install git`
+
 `pkg install vim`
+
 `pkg install g++`
+
 `pkg install clang`
+
 `apt update`
+
 `apt upgrade`
 
-- clonar el repositorio en la maquina local.
+- Clonar el repositorio en la maquina local.
 
 ` git clone https://github.com/SamuelC13/ACTIVIDAD-E2`
 
