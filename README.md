@@ -4,7 +4,7 @@
 
 **INFORMACION DEL AUTOR**
 ###### `Autor: Cortez Jean`
- `Enlace video: ` https://www.youtube.com/watch?v=HTro6WV5IU8&t=7
+######  `Enlace video:`  https://www.youtube.com/watch?v=HTro6WV5IU8&t=7
 ###### `Correo: sc834374@gmail.com`
 # PROGRAMAS
 **Compara de dos números**
