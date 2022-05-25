@@ -32,6 +32,7 @@ Diagrama de flujo y programa en C++ en C++ que permite sumar varios números el 
     float ct_s=0, ct_x;`
 ###### Salida
 `cout<<"Ingrese un número para sumarlo: "<<ct_s<<endl;`
+
 **Calcula la edad**
 ###### Descripcion del programa
 Diagrama de flujo y programa en C++ que permite calcular de edad de una persona, el programa debe permitir ingresar la fecha actual, la fecha de nacimiento y mostrar cuantos años, meses y días tiene la persona.
